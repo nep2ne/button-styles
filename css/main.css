@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  padding: .3em;
 }
 
 *, *::before, *::after {
@@ -8,18 +9,17 @@ html {
 }
 
 div {
-  padding: .5rem;
+  padding: .5em;
   text-align: center;
 }
 
 .btn {
   display: inline-block;
-  padding: .4em .75em .3em;
+  padding: .51em .75em;
   background-color: #333;
   border-radius: 8px;
   color: #fff;
   font-size: 1.125rem;
-  margin: .5em;
   text-decoration: none;
 }
 
@@ -29,7 +29,6 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border: 3px solid #000;
   color: #000;
 }
 

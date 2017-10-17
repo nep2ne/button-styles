@@ -11,3 +11,7 @@ div {
   padding: .5rem;
   text-align: center;
 }
+.btn {
+  border-radius: 8px;
+  border-width: 3px;
+}
